@@ -15,7 +15,7 @@ This project was developed as part of CodeAlpha Internship. It demonstrates fron
 - JavaScript
 
 ## Live Demo
-(Add your GitHub Pages link here)
+https://raheelaly981-cpu.github.io/CodeAlpha_Chatbot/
 
 ## Author
 Raheel Ahmed
